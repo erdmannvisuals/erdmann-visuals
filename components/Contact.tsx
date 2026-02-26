@@ -27,7 +27,7 @@ export default function Contact() {
         <div className="mt-12 flex flex-col md:flex-row justify-center gap-4">
           {/* EMAIL */}
           <a
-            href="mailto:info@erdmannvisuals.com?subject=Video%20Project%20Inquiry&body=Hello%20Michael,%0D%0A%0D%0AI%20would%20like%20to%20discuss%20a%20project.%20Here%20are%20some%20details:%0D%0A-%20Type%20of%20project:%0D%0A-%20Timeline:%0D%0A-%20Budget%20range:%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.%0D%0A%0D%0ARegards,"
+            href="mailto:ermannvisuals@outlook.com?subject=Video%20Project%20Inquiry&body=Hello%20Michael,%0D%0A%0D%0AI%20would%20like%20to%20discuss%20a%20project.%20Here%20are%20some%20details:%0D%0A-%20Type%20of%20project:%0D%0A-%20Timeline:%0D%0A-%20Budget%20range:%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.%0D%0A%0D%0ARegards,"
             className="rounded-full bg-white text-black px-10 py-4 text-sm tracking-[0.28em] font-semibold transition hover:scale-[1.02] hover:opacity-90"
           >
             EMAIL
